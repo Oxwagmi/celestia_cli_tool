@@ -1,7 +1,7 @@
 
 #### Setup
 
-1. git clone https://github.com/niluke/celestia_cli_tool.git
+1. git clone https://github.com/Oxwagmi/celestia_cli_tool.git
 2. npm i 
 3. cd /usr/local/bin     
 4. sudo vim celestia.sh
